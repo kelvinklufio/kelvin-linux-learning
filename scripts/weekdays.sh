@@ -14,4 +14,4 @@ echo Friday
 echo Saturday
 echo Sunday
 echo
-echo "These are the day of the week in order"
+ 
